@@ -1,4 +1,6 @@
-# BootCamp Atlântico Avanti 2023.2 - Machine Learning <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="58" height="58"/>
+# BootCamp Atlântico Avanti Machine Learning 2023.2 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="58" height="58"/> <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="55" height="55" /> 
+
+-------------------
 
 ## Tecnologias
 <div>
