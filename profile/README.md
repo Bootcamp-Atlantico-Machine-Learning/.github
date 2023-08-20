@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# BootCamp Atlântico Avanti 2023.2 - Machine Learning <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="58" height="58"/>
 <!--
 
 **Here are some ideas to get you started:**
