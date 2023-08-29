@@ -13,6 +13,8 @@ Trabalho de classsificação de Ultrassonografia de mama ,conjunto de dados disp
 
 ## [Repositorio do trabalho](https://github.com/Bootcamp-Atlantico-Machine-Learning/ProjetoBreastUltrasound)
 
+## [Gestão do projeto](https://github.com/orgs/Bootcamp-Atlantico-Machine-Learning/projects/1)
+
 ## Tecnologias
 <div>
     <a href="https://www.python.org/">
