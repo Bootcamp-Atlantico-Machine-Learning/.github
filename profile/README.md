@@ -15,7 +15,7 @@ Trabalho de classsificação de Ultrassonografia de mama ,conjunto de dados disp
 
 ## [Gestão do projeto](https://github.com/orgs/Bootcamp-Atlantico-Machine-Learning/projects/1)
 
-## Tecnologias
+## Tecnologias e ferramentas
 <div>
     <a href="https://www.python.org/">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
